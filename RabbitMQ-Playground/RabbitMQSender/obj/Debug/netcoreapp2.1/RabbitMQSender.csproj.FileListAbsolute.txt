@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\RabbitMQSender\bin\Debug\netcoreapp2.1\RabbitMQSender.deps.json
+C:\Users\Administrator\Desktop\RabbitMQSender\bin\Debug\netcoreapp2.1\RabbitMQSender.runtimeconfig.json
+C:\Users\Administrator\Desktop\RabbitMQSender\bin\Debug\netcoreapp2.1\RabbitMQSender.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\RabbitMQSender\bin\Debug\netcoreapp2.1\RabbitMQSender.dll
+C:\Users\Administrator\Desktop\RabbitMQSender\bin\Debug\netcoreapp2.1\RabbitMQSender.pdb
+C:\Users\Administrator\Desktop\RabbitMQSender\obj\Debug\netcoreapp2.1\RabbitMQSender.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\RabbitMQSender\obj\Debug\netcoreapp2.1\RabbitMQSender.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RabbitMQSender\obj\Debug\netcoreapp2.1\RabbitMQSender.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\RabbitMQSender\obj\Debug\netcoreapp2.1\RabbitMQSender.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\RabbitMQSender\obj\Debug\netcoreapp2.1\RabbitMQSender.dll
+C:\Users\Administrator\Desktop\RabbitMQSender\obj\Debug\netcoreapp2.1\RabbitMQSender.pdb
